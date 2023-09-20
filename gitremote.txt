@@ -6,3 +6,5 @@
 4. git push -u origin master 
     4.1. username ? prajwal3641
     4.2. password ? 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
+
+5. we can pull the latest remote commit into our local system
